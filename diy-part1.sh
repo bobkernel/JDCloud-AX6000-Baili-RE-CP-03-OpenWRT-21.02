@@ -20,4 +20,3 @@
 git clone https://github.com/vernesong/OpenClash.git --branch master --single-branch --depth 1 package/OpenClash
 git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 git clone https://github.com/EasyTier/luci-app-easytier.git package/EasyTier
-git clone https://github.com/gdy666/luci-app-lucky.git package/Lucky
